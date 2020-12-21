@@ -1,6 +1,6 @@
-Year,Percentage,TotalAnnualRain,WaterRemainingFromLastYear,TotalAmountofWaterGivenDuringtheYear
-21.12.2016,38.85,77.81,58.24,99.86
-21.12.2017,58.17,92.23,35.67,102.96
-21.12.2018,77.29,95.74,55.12,104.09
-21.12.2019,33.97,55.87,75.11,106.17
-21.12.2020,21.70,52.09,31.86,99.90
+Year,Percentage,TotalAnnualRain,TotalChangeOneYear,TotalAmountofWaterGivenDuringtheYear
+21.12.2016,38.85,77.81,-21.39,99.86
+21.12.2017,58.17,92.23,19.32,102.96
+21.12.2018,77.29,95.74,19.12,104.09
+21.12.2019,33.97,55.87,-43.32,106.17
+21.12.2020,21.70,52.09,-12.27,99.90
